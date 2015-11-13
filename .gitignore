@@ -2,3 +2,7 @@
 /keyrings/live/pubring.kbx~
 /keyrings/live/secring.gpg
 /accounts.txt
+/ssl/cstools.co.uk/intermediate.pem
+/ssl/cstools.co.uk/root.pem
+/ssl/cstools.co.uk/ssl.crt
+/ssl/cstools.co.uk/ssl.key
