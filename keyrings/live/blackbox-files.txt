@@ -1,2 +1,3 @@
 accounts.txt
 ssl/cstools.co.uk/intermediate.pem
+ssl/cstools.co.uk/root.pem
